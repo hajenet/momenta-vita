@@ -1,6 +1,6 @@
 {
   "audio": {
-    "src": "",
+    "src": "assets/audio/bgm.mp3",
     "label": "Momenta Vita BGM"
   },
   "topics": [
@@ -11,17 +11,17 @@
       "accent": "#d7a56d",
       "photos": [
         {
-          "src": "assets/images/5a2046292368-956349-9f08ba788ef9.jpg",
+          "src": "assets/images/4c4754985c0b-472792-9f08ba788ef9.jpg",
           "alt": "여름날의 풍경",
           "caption": "하루가 길었던 만큼, 저녁의 빛도 오래 머물렀다."
         },
         {
-          "src": "assets/images/c1c0cefbc729-969579-29417d7bc8fa.jpg",
+          "src": "assets/images/e57aaa220115-604493-29417d7bc8fa.jpg",
           "alt": "빛이 내려앉은 장면",
           "caption": "잠깐 멈춰 선 자리에서 계절의 온도를 느꼈다."
         },
         {
-          "src": "assets/images/cf4e3dbc83e5-134991-ca486cca6e41.jpg",
+          "src": "assets/images/9b8d73f71ab3-967535-ca486cca6e41.jpg",
           "alt": "여름의 한 장면",
           "caption": "사진은 지나간 시간을 조용히 다시 불러온다."
         }
@@ -34,17 +34,17 @@
       "accent": "#c97f62",
       "photos": [
         {
-          "src": "assets/images/f3646cb2752c-777468-900476a73fbc.jpg",
+          "src": "assets/images/fa387ea892c2-113379-900476a73fbc.jpg",
           "alt": "길 위의 풍경",
           "caption": "목적지보다 가는 길을 더 오래 기억하는 날이 있다."
         },
         {
-          "src": "assets/images/4122f7cf81a6-116789-86f9488a7a75.jpg",
+          "src": "assets/images/ed01dd128757-019558-86f9488a7a75.jpg",
           "alt": "여행 중 만난 장면",
           "caption": "낯선 풍경도 천천히 바라보면 금세 익숙해진다."
         },
         {
-          "src": "assets/images/52c2b13fec51-052876-b96515e8601f.jpg",
+          "src": "assets/images/0cf8998ba8d2-106400-b96515e8601f.jpg",
           "alt": "가을빛 풍경",
           "caption": "그날의 공기까지 함께 담고 싶었던 사진."
         }
@@ -57,37 +57,37 @@
       "accent": "#8aa89a",
       "photos": [
         {
-          "src": "assets/images/9dd495ad50c4-267922-9025b068a9a0.jpg",
+          "src": "assets/images/d7b983b3cebd-342498-9025b068a9a0.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/4f52df0a5b3b-438154-39499ad29af0.jpg",
+          "src": "assets/images/be0207f73885-048926-39499ad29af0.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/e20c2b7bd613-419990-092d5211d7b2.jpg",
+          "src": "assets/images/ee93a83ba3aa-070646-092d5211d7b2.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/989e321cb268-905144-726570b85400.jpg",
+          "src": "assets/images/136b9dc61ecb-158378-726570b85400.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/b6d925bbd375-377854-117723702dc4.jpg",
+          "src": "assets/images/031fb8fb83bb-952586-117723702dc4.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/000f3755b143-335786-b69f8beba20e.jpg",
+          "src": "assets/images/edbf2bcbc003-369442-b69f8beba20e.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/be8706cbba73-440118-a6db3a7f8ece.jpg",
+          "src": "assets/images/b1aaddc4a9d2-296029-a6db3a7f8ece.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         }
@@ -100,27 +100,27 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/2e80a31cda43-877484-1591968bed86.jpg",
+          "src": "assets/images/f8d4528811ef-948073-1591968bed86.jpg",
           "alt": "20260829_001_180523",
           "caption": ""
         },
         {
-          "src": "assets/images/860ad48256fc-538330-f2c46ee95ff8.jpg",
+          "src": "assets/images/87ea2ac4f046-649504-f2c46ee95ff8.jpg",
           "alt": "20260829_002_180624",
           "caption": ""
         },
         {
-          "src": "assets/images/47971af97aa3-055641-298528a61ebb.jpg",
+          "src": "assets/images/2db4fab7909c-589652-298528a61ebb.jpg",
           "alt": "20260829_003_185009",
           "caption": ""
         },
         {
-          "src": "assets/images/d265b35a8b6c-410831-e868f1d5fe32.jpg",
+          "src": "assets/images/37922020938b-590401-e868f1d5fe32.jpg",
           "alt": "20260829_004_185847",
           "caption": ""
         },
         {
-          "src": "assets/images/647ff767222d-591830-7240edb1c493.jpg",
+          "src": "assets/images/b0a851a47922-060690-7240edb1c493.jpg",
           "alt": "20260829_005_185914",
           "caption": ""
         }
@@ -133,17 +133,17 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/4347828b1476-138846-ba2de6ececc8.jpg",
+          "src": "assets/images/22365891c58e-838233-ba2de6ececc8.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/6c59fdb53727-286197-57cd302749d8.jpg",
+          "src": "assets/images/eb8db37b2cf3-634503-57cd302749d8.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/cf8511ba80c2-870741-068744988a65.jpg",
+          "src": "assets/images/f20246891723-522888-068744988a65.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         }
@@ -156,37 +156,37 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/daeafc984935-330698-ff9860a51a83.jpg",
+          "src": "assets/images/2d042aa314f4-371157-ff9860a51a83.jpg",
           "alt": "예쁜 꽃, 말을 걸다.",
           "caption": "다른 빛과 색으로 초록 들판의 모퉁이가 되었다"
         },
         {
-          "src": "assets/images/00d7b7f77a7a-399270-c3dd2be689aa.jpg",
+          "src": "assets/images/9450f9357a09-575090-c3dd2be689aa.jpg",
           "alt": "한강 1",
           "caption": "날이 흐리다"
         },
         {
-          "src": "assets/images/a88059f16df9-466793-5c50091310be.jpg",
+          "src": "assets/images/193bf7d17ca2-531776-5c50091310be.jpg",
           "alt": "한강2",
           "caption": "회색 구름 \n다리 \n정체된 차량들\n강물\n그것들을 꽃들이 바치고 있다"
         },
         {
-          "src": "assets/images/8f623e941dcb-080409-9f9a3b6f607c.jpg",
+          "src": "assets/images/e281f80e940b-220937-9f9a3b6f607c.jpg",
           "alt": "꽃 1",
           "caption": "너는 무슨 꽃이니?"
         },
         {
-          "src": "assets/images/bd19db31b37c-159562-e231f907efa0.jpg",
+          "src": "assets/images/e2c78a00b263-526440-e231f907efa0.jpg",
           "alt": "꽃 2",
           "caption": "나는 꽃이 아니라 우주야"
         },
         {
-          "src": "assets/images/1004bdc84e2e-791911-d5bebe30ce87.jpg",
+          "src": "assets/images/6bec6c9b17c8-123199-d5bebe30ce87.jpg",
           "alt": "꽃 3",
           "caption": "나한테 가까이 와봐"
         },
         {
-          "src": "assets/images/4451c988cd0a-346563-10f52e5df815.jpg",
+          "src": "assets/images/cb0c44885821-114174-10f52e5df815.jpg",
           "alt": "꽃 4",
           "caption": "흔들리고 흐려도 나는 꽃이자 우주야"
         }
@@ -199,32 +199,32 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/ca1cac3a24c2-207402-bc497983b963.jpg",
+          "src": "assets/images/c7065f91877f-426424-bc497983b963.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/7c43bce4a17e-597327-aaf241f9b1c8.jpg",
+          "src": "assets/images/1723f5033c45-237289-aaf241f9b1c8.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/b81238b1e5da-643323-dd80f0a236b7.jpg",
+          "src": "assets/images/d317d7bf9d59-664155-dd80f0a236b7.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/48a4c229b947-536566-9aee3c2b14c8.jpg",
+          "src": "assets/images/c134af1ab26c-628729-9aee3c2b14c8.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/48a60d07281a-896714-274e619c0b2f.jpg",
+          "src": "assets/images/8843949e1cfc-767980-274e619c0b2f.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/7c36e754ddb4-479853-8e7e978a63dc.jpg",
+          "src": "assets/images/1eba8cb561eb-212344-8e7e978a63dc.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         }
@@ -237,27 +237,27 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/4a8c3cc624bc-472223-e450571f9f63.jpg",
+          "src": "assets/images/e5669f78d8a0-419392-e450571f9f63.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/b0f8b8035126-619830-4ba57eb94e39.jpg",
+          "src": "assets/images/382cc8bb4905-770771-4ba57eb94e39.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/b8beafcd81f5-258681-79989ef7d35a.jpg",
+          "src": "assets/images/58a2ba13e3a1-554448-79989ef7d35a.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/f553ff1abb91-816206-599c65fc5b32.jpg",
+          "src": "assets/images/f69e8e93032a-285359-599c65fc5b32.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/0c0cc03de5d5-638964-ed8bd7ab1eb2.jpg",
+          "src": "assets/images/5505259465bf-090498-ed8bd7ab1eb2.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         }
@@ -270,72 +270,72 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/a38fc8206be5-654847-32337c48eb87.jpg",
+          "src": "assets/images/e608e3e24be5-135204-32337c48eb87.jpg",
           "alt": "선명한 색이 남은 순간",
           "caption": "그날의 온도와 색이 한 장면 안에 오래 머물렀다."
         },
         {
-          "src": "assets/images/c4e1d5852296-667494-fa59d8a6e448.jpg",
+          "src": "assets/images/93211287737e-511910-fa59d8a6e448.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/55c7f5a1b816-016443-0bc7d5a8827b.jpg",
+          "src": "assets/images/25a8cd75e2ed-750078-0bc7d5a8827b.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/cf17db41f1f4-119861-39da78e933fa.jpg",
+          "src": "assets/images/b28f4ff8cf44-830814-39da78e933fa.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/2a50f1ea91b6-215611-f93adcab1ff8.jpg",
+          "src": "assets/images/2af13ebca1b6-075613-f93adcab1ff8.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/e103e3013874-977264-73d4912b1b91.jpg",
+          "src": "assets/images/e6a35a4223d2-805340-73d4912b1b91.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/40bb72069574-182597-66b7ad19effb.jpg",
+          "src": "assets/images/517f46bb6944-109293-66b7ad19effb.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/bbadf1de3723-664367-637b08e508ec.jpg",
+          "src": "assets/images/a5942943aa18-342855-637b08e508ec.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/ab4677776a5b-256156-381542e00293.jpg",
+          "src": "assets/images/88e404f30e75-985244-381542e00293.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/2619f0132e94-698484-68c264a005c0.jpg",
+          "src": "assets/images/a64e31f102ff-774513-68c264a005c0.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/ec2707409d2d-180083-05770e8fb8fb.jpg",
+          "src": "assets/images/39282cd59a1b-690740-05770e8fb8fb.jpg",
           "alt": "고요한 빛이 머문 장면",
           "caption": "어둠 속에서도 작은 빛은 천천히 마음에 남았다."
         },
         {
-          "src": "assets/images/34454f9dd3ce-690656-09b339482ea9.jpg",
+          "src": "assets/images/ce6862facd45-614015-09b339482ea9.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/7e1bdf938692-048406-0dfb7b02cc0b.jpg",
+          "src": "assets/images/50bb40978c1b-613370-0dfb7b02cc0b.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/dc9070e94320-672523-4e87e2ecdaca.jpg",
+          "src": "assets/images/856983dc6e52-006874-4e87e2ecdaca.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         }
@@ -348,47 +348,47 @@
       "accent": "#c98962",
       "photos": [
         {
-          "src": "assets/images/fc870b2f018f-882153-9aa7735accb8.jpg",
+          "src": "assets/images/6991dd2b97f3-008036-9aa7735accb8.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/30794557609c-630834-035775b592aa.jpg",
+          "src": "assets/images/057966b4cb87-968532-035775b592aa.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/b3ae3296d886-035492-7ec578bb5393.jpg",
+          "src": "assets/images/9c19a3421849-571981-7ec578bb5393.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/ddc8cc111b23-122277-fdfb138da5ff.jpg",
+          "src": "assets/images/923afb949e8c-917276-fdfb138da5ff.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/83d4f4ef8ef7-399974-3896b01da96b.jpg",
+          "src": "assets/images/e98f4a22a19f-810577-3896b01da96b.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/c409d37dee39-401343-a8f1ef0c9614.jpg",
+          "src": "assets/images/0ce3acfbea30-180432-a8f1ef0c9614.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/31ce1ce8a252-969422-429166c1892f.jpg",
+          "src": "assets/images/c33ac5a0a8f1-032792-429166c1892f.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/f015f1e2e646-846819-ae3ca0a0fe2b.jpg",
+          "src": "assets/images/c69d4dbe289b-264989-ae3ca0a0fe2b.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         },
         {
-          "src": "assets/images/ccaacf3c1bff-500861-0f48ecdb5258.jpg",
+          "src": "assets/images/b0d2556ffee9-252536-0f48ecdb5258.jpg",
           "alt": "천천히 바라본 풍경",
           "caption": "잠깐 멈춰 선 자리에서 오늘의 공기를 다시 만났다."
         }
