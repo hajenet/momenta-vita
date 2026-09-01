@@ -21,8 +21,9 @@
 
     var layer = document.createElement("div");
     layer.className = "magic-word-layer";
-    layer.style.setProperty("--magic-top", (12 + Math.random() * 34).toFixed(1) + "%");
-    layer.style.setProperty("--magic-duration", (5.2 + Math.random() * 1.4).toFixed(2) + "s");
+    // Magic Word Drift: keep the word mostly in the lower half of the photo.
+    layer.style.setProperty("--magic-top", (55 + Math.random() * 22).toFixed(1) + "%");
+    layer.style.setProperty("--magic-duration", (8.5 + Math.random() * 2).toFixed(2) + "s");
     layer.innerHTML = "MOMENTA VITA".split("").map(function (letter, index) {
       return '<span style="--magic-delay:' + (index * 65) + 'ms">' + (letter === " " ? "&nbsp;" : letter) + "</span>";
     }).join("");
@@ -50,4 +51,3 @@
     }
   }).observe(dialog, { attributes: true, attributeFilter: ["open"] });
 })();
-
