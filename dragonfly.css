@@ -1,0 +1,6 @@
+.lightbox-media { position: relative; }
+.dragonfly-layer { position: absolute; z-index: 3; top: var(--dragonfly-top); left: var(--dragonfly-start); width: clamp(70px, 12vw, 150px); pointer-events: none; opacity: 0; transform: rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); animation: dragonfly-flight 7.5s cubic-bezier(.22,.61,.36,1) forwards; filter: drop-shadow(0 2px 3px rgba(39,48,45,.14)); }
+.dragonfly-layer svg { display: block; width: 100%; height: auto; overflow: visible; }
+.dragonfly-wing { fill: rgba(218,235,231,.27); stroke: rgba(92,132,128,.48); stroke-width: 1.15; }
+.dragonfly-core, .dragonfly-head { fill: rgba(63,82,79,.75); }
+@keyframes dragonfly-flight { 0% { opacity: 0; transform: translateX(0) translateY(12px) rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); } 12% { opacity: .72; } 78% { opacity: .58; } 100% { opacity: 0; transform: translateX(calc(var(--dragonfly-end) - var(--dragonfly-start))) translateY(-18px) rotate(calc(var(--dragonfly-tilt) + 5deg)) scale(var(--dragonfly-size)); } }
