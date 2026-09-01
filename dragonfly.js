@@ -8,6 +8,7 @@
 
   var timer = null;
   var flyTimer = null;
+  var slideshowButton = document.querySelector("#slideshow-button");
 
   function random(min, max) {
     return Math.round(min + Math.random() * (max - min));
@@ -36,17 +37,20 @@
   function schedule() {
     window.clearTimeout(flyTimer);
     if (!dialog.open) return;
-    flyTimer = window.setTimeout(createDragonfly, random(3200, 7600));
+    if (!dialog.open || !slideshowButton || !slideshowButton.classList.contains("is-playing")) return;
+    flyTimer = window.setTimeout(createDragonfly, random(7000, 10000));
   }
 
   function observe() {
     window.clearTimeout(timer);
     if (!dialog.open) return;
-    timer = window.setTimeout(createDragonfly, random(1800, 3600));
+    if (!dialog.open || !slideshowButton || !slideshowButton.classList.contains("is-playing")) return;
+    window.clearTimeout(flyTimer);
+    flyTimer = window.setTimeout(createDragonfly, random(7000, 10000));
   }
 
   new MutationObserver(function () {
-    if (dialog.open) observe();
+    if (dialog.open && slideshowButton && slideshowButton.classList.contains("is-playing")) observe();
     else {
       window.clearTimeout(timer);
       window.clearTimeout(flyTimer);
@@ -55,8 +59,19 @@
     }
   }).observe(dialog, { attributes: true, attributeFilter: ["open"] });
 
+  if (slideshowButton) {
+    new MutationObserver(function () {
+      if (slideshowButton.classList.contains("is-playing")) observe();
+      else {
+        window.clearTimeout(timer);
+        window.clearTimeout(flyTimer);
+        var current = media.querySelector(".dragonfly-layer");
+        if (current) current.remove();
+      }
+    }).observe(slideshowButton, { attributes: true, attributeFilter: ["class"] });
+  }
+
   new MutationObserver(function () {
-    if (dialog.open) observe();
+    if (dialog.open && slideshowButton && slideshowButton.classList.contains("is-playing")) observe();
   }).observe(image, { attributes: true, attributeFilter: ["src"] });
 })();
-
