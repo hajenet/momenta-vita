@@ -1,0 +1,43 @@
+.gallery-heading {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.slideshow-duration {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.duration-button {
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 25px;
+}
+
+.duration-button.is-active {
+  background: #718a72;
+  color: #fff;
+}
+
+.duration-button:hover {
+  background: #dce5d9;
+  color: var(--ink);
+}
+
+@media (max-width: 700px) {
+  .gallery-heading {
+    display: block;
+  }
+}
