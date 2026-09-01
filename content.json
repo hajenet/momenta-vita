@@ -1,7 +1,7 @@
 {
   "audio": {
     "src": ["assets/audio/bgm-01.mp3", "assets/audio/bgm-02.mp3"],
-    "label": "Momenta Vita BGM"
+    "label": "Momenta Vitae BGM"
   },
   "topics": [
     {
