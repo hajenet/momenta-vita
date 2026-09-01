@@ -1,4 +1,5 @@
 .lightbox-media { position: relative; }
+.lightbox > .slideshow-progress { margin: 0 30px 18px; }
 .dragonfly-layer { position: absolute; z-index: 3; top: var(--dragonfly-top); left: var(--dragonfly-start); width: clamp(70px, 12vw, 150px); pointer-events: none; opacity: 0; transform: rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); animation: dragonfly-flight 4.2s cubic-bezier(.22,.61,.36,1) forwards; filter: drop-shadow(0 2px 3px rgba(39,48,45,.14)); }
 .dragonfly-layer svg { display: block; width: 100%; height: auto; overflow: visible; }
 .dragonfly-wing { fill: rgba(218,235,231,.34); stroke: rgba(92,132,128,.58); stroke-width: 1.15; transform-box: fill-box; transform-origin: center; animation: dragonfly-wingbeat .24s ease-in-out infinite alternate; }
