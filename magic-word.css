@@ -1,0 +1,5 @@
+.magic-word-layer { position:absolute; z-index:4; top:var(--magic-top); left:-34%; white-space:nowrap; pointer-events:none; color:rgba(255,239,195,.78); font-family:'DM Serif Display',Georgia,serif; font-size:clamp(22px,4.5vw,62px); font-style:italic; font-weight:400; letter-spacing:.16em; text-shadow:0 0 5px rgba(255,234,175,.72),0 0 18px rgba(255,214,123,.42),0 2px 8px rgba(39,48,45,.22); mix-blend-mode:screen; animation:magic-word-flight var(--magic-duration) cubic-bezier(.2,.65,.35,1) forwards; }
+.magic-word-layer span { display:inline-block; animation:magic-letter-wave 1.25s ease-in-out var(--magic-delay) infinite; }
+@keyframes magic-word-flight { 0% { opacity:0; transform:translate3d(-5vw,34px,0) rotate(-5deg) skewX(-10deg); } 12% { opacity:.82; } 42% { transform:translate3d(34vw,-20px,0) rotate(3deg) skewX(7deg); } 72% { opacity:.76; transform:translate3d(72vw,16px,0) rotate(-3deg) skewX(-7deg); } 100% { opacity:0; transform:translate3d(142vw,-28px,0) rotate(5deg) skewX(8deg); } }
+@keyframes magic-letter-wave { 0%,100% { transform:translateY(0) rotate(0); } 50% { transform:translateY(-7px) rotate(-2deg); } }
+
