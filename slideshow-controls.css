@@ -49,6 +49,26 @@
   color: var(--muted);
 }
 
+.topic-switch {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.topic-switch button {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: inherit;
+}
+
+.topic-switch button:hover {
+  color: var(--ink);
+}
+
 @media (max-width: 700px) {
   .gallery-heading {
     display: block;
