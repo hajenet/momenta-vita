@@ -1,4 +1,6 @@
 .lightbox-media { position: relative; }
+.slideshow-duration { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 11px; }
+.slideshow-duration select { border: 1px solid var(--line); border-radius: 16px; background: var(--paper); padding: 9px 12px; color: var(--ink); font-size: 11px; }
 .lightbox > .slideshow-progress { margin: 0 30px 18px; }
 .lightbox-media img { opacity: 1; transform: scale(1); transition: opacity .7s ease-in-out, transform .7s ease-in-out; }
 .lightbox-media img.is-fading { opacity: 0; transform: scale(1.035); }
