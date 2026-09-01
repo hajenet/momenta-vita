@@ -1,5 +1,5 @@
 .lightbox-media { position: relative; }
-.dragonfly-layer { position: absolute; z-index: 3; top: var(--dragonfly-top); left: var(--dragonfly-start); width: clamp(70px, 12vw, 150px); pointer-events: none; opacity: 0; transform: rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); animation: dragonfly-flight 5s cubic-bezier(.22,.61,.36,1) forwards; filter: drop-shadow(0 2px 3px rgba(39,48,45,.14)); }
+.dragonfly-layer { position: absolute; z-index: 3; top: var(--dragonfly-top); left: var(--dragonfly-start); width: clamp(70px, 12vw, 150px); pointer-events: none; opacity: 0; transform: rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); animation: dragonfly-flight 4.2s cubic-bezier(.22,.61,.36,1) forwards; filter: drop-shadow(0 2px 3px rgba(39,48,45,.14)); }
 .dragonfly-layer svg { display: block; width: 100%; height: auto; overflow: visible; }
 .dragonfly-wing { fill: rgba(218,235,231,.34); stroke: rgba(92,132,128,.58); stroke-width: 1.15; transform-box: fill-box; transform-origin: center; animation: dragonfly-wingbeat .24s ease-in-out infinite alternate; }
 .dragonfly-wing.wing-b, .dragonfly-wing.wing-d { animation-delay: -.12s; }
@@ -7,5 +7,6 @@
 .dragonfly-head { fill: rgba(48,67,64,.88); }
 .dragonfly-eye { fill: rgba(218,176,105,.9); }
 .dragonfly-leg, .dragonfly-segment { fill: none; stroke: rgba(48,67,64,.7); stroke-width: 1.4; stroke-linecap: round; }
+.dragonfly-vein { fill: none; stroke: rgba(92,132,128,.38); stroke-width: 1; stroke-linecap: round; }
 @keyframes dragonfly-wingbeat { from { transform: scaleY(.72); } to { transform: scaleY(1); } }
-@keyframes dragonfly-flight { 0% { opacity: 0; transform: translateX(0) translateY(12px) rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); } 12% { opacity: .84; } 78% { opacity: .68; } 100% { opacity: 0; transform: translateX(calc(var(--dragonfly-end) - var(--dragonfly-start))) translateY(-18px) rotate(calc(var(--dragonfly-tilt) + 5deg)) scale(var(--dragonfly-size)); } }
+@keyframes dragonfly-flight { 0% { opacity: 0; transform: translateX(0) translateY(12px) rotate(var(--dragonfly-tilt)) scale(var(--dragonfly-size)); } 12% { opacity: .84; } 78% { opacity: .68; } 100% { opacity: 0; transform: translateX(var(--dragonfly-distance)) translateY(-18px) rotate(calc(var(--dragonfly-tilt) + 5deg)) scale(var(--dragonfly-size)); } }
