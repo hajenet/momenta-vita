@@ -50,7 +50,6 @@
 }
 
 .topic-switch {
-  position: relative;
   display: flex;
   justify-content: space-between;
   gap: 16px;
@@ -64,25 +63,10 @@
   background: transparent;
   padding: 0;
   color: inherit;
-  font-weight: 700;
 }
 
 .topic-switch button:hover {
   color: var(--ink);
-}
-
-.lightbox-actions {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 22px;
-  pointer-events: none;
-}
-
-.lightbox-actions button {
-  pointer-events: auto;
 }
 
 @media (max-width: 700px) {
